@@ -1,0 +1,11 @@
+I'm creating a new feature...
+...this is my first feature commit.
+
+
+Hey, this is my second commit on new feature.
+
+
+Let's commit third time
+
+Hey, this is newer features first commit!
+Fourth new feat.
